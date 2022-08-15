@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AdvancedApplication { 
 
 	public static void main(String[] args) {
-		SpringApplication.run(AdvancedApplication.class, args);
+		 SpringApplication.run(AdvancedApplication.class, args);
 	}
 
 }
